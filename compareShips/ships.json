@@ -1,0 +1,51 @@
+[
+    {
+        "name":"CR90 Corvette",
+        "value":"2"
+    },
+    {
+        "name":"V-wing",
+        "value":"75"
+    },
+    {
+        "name":"Belbullab-22 Starfighter",
+        "value":"74"
+    },
+    {
+        "name":"Jedi Interceptor",
+        "value":"65"
+    },
+    {
+        "name":"Star Destroyer",
+        "value":"3"
+    },
+    {
+        "name":"Trade Fedaration Cruiser",
+        "value":"59"
+    },
+    {
+        "name":"Solar Saile",
+        "value":"58"
+    },
+    {
+        "name":"Republic Attack Cruiser",
+        "value":"63"
+    },
+    {
+        "name":"A-wing",
+        "value":"28"
+    },
+    {
+        "name":"B-wing",
+        "value":"29"
+    },
+    {
+        "name":"Naboo Fighter",
+        "value":"39"
+
+    },
+    {
+        "name":"Millenium Falcon",
+        "value":"10"
+    }
+]
